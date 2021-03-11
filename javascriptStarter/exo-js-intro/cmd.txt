@@ -1,0 +1,9 @@
+
+ls: liste le contenu du répertoire\
+cd: nous permet de changer de répertoire \
+mkdir: Nous permet la création du répertoire\
+cd .. : Nous permets de revenir dans le répertoire précédent\
+pwd : Nous affiche dans quel répertoire on se situe\
+cd ~: Nous permets d'aller dans le répertoire principal\
+ls -filah: Nous permets d'avoir un aperçu de tous les fichiers contenu dans le répertoire même les caches.\
+sudo:  est une commande permettant \'e0 l'administrateur système d'accorder \'e0 certains utilisateurs (ou groupes d'utilisateurs) la possibilite de lancer une commande en tant qu'administrateur.}
